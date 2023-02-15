@@ -18,3 +18,10 @@ num27 = 25
 num28 = 25
 
 console.log (num25 + num26 + num27 + num28 );
+
+let num50: number;
+let num49: number;
+num50 = 50
+num49 = 100
+
+console.log (num50 _ num49);
