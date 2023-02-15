@@ -5,4 +5,4 @@
 let num20: number;
 let num45: number;
 
-console . log (num20 + num45);
+console.log (num20 + num45);
