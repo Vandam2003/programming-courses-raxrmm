@@ -2,9 +2,7 @@
 //###########################           SSTech       ###################
 //###########################   Programming Courses  ###################
 //######################################################################
-let num1: number;
-let num2: number;
-num1 = 120;
-num2 = 457;
+let num20: number;
+let num45: number;
 
-console.log(num1 + num2);
+console . log (num20 + num45);
