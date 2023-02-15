@@ -7,3 +7,14 @@ let num45: number;
 num20 = 5000
 num45 = 5000
 console.log (num20 + num45);
+
+let num25: number;
+let num26: number;
+let num27: number;
+let num28: number;
+num25 = 25
+num26 = 25
+num27 = 25
+num28 = 25
+
+console.log (num25 + num26 + num27 + num28 );
