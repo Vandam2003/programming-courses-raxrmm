@@ -18,3 +18,9 @@ num27 = 25
 num28 = 25
 
 console.log (num25 + num26 + num27 + num28 );
+
+let num55: number;
+let num30: number;
+num55 = 1500
+num30 = 500
+console.log (num55 - num30);
