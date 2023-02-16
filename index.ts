@@ -24,3 +24,9 @@ let num30: number;
 num55 = 1500
 num30 = 500
 console.log (num55 - num30);
+
+let num1: number;
+let num2: number;
+num1 = 500
+num2 = 500
+console.log (num1*num2);
