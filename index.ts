@@ -7,7 +7,7 @@ let num45: number;
 let num50: number;
 num20 = 5000;
 num45 = 5000;
-num50 = nm20 + num45 ;
+num50 = num20 + num45 ;
 console.log (num50);
 
 let num25: number;
