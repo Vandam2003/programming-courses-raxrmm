@@ -3,8 +3,11 @@
 //###########################   Programming Courses  ###################
 //######################################################################
 
-let myText ; String
-myText = "going so far";
-myText =  "love is not too bad";
+let num1: number;
+let num2: number;
+let num3: number;
 
-console.log(myText);
+num1 = 10;
+num2 = 20;
+num3 = num1 + num2 ; 
+console.log (num3);
