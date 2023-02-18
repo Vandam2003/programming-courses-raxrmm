@@ -6,4 +6,5 @@
 let myText ; String
 myText = "going so far";
 myText = + "love is not too bad";
+
 console.log(myText);
