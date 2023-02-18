@@ -4,8 +4,10 @@
 //######################################################################
 let num20: number;
 let num45: number;
-num20 = 5000
-num45 = 5000
+let num50: number;
+num20 = 5000;
+num45 = 5000;
+num50 = 5000;
 console.log (num20 + num45);
 
 let num25: number;
