@@ -32,3 +32,8 @@ let num2: number;
 num1 = 500
 num2 = 500
 console.log (num1*num2);
+
+let myText ; String
+myText = "going so far";
+myText = + "love is not too bad";
+console.log(myText);
